@@ -45,3 +45,13 @@ Backup*
 
 # IAR .dep files
 *.dep
+# Ket qua build cua IAR
+EWARM/Debug/
+EWARM/Release/
+
+# Cai dat ca nhan cua IAR
+EWARM/settings/
+
+# File tam
+*.tmp
+*.log
